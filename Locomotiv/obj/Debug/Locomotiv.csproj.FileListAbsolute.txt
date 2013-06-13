@@ -1,0 +1,9 @@
+D:\repo\Locomotiv\Locomotiv\bin\Locomotiv.dll
+D:\repo\Locomotiv\Locomotiv\bin\Locomotiv.pdb
+D:\repo\Locomotiv\Locomotiv\bin\EntityFramework.dll
+D:\repo\Locomotiv\Locomotiv\bin\MySql.Data.dll
+D:\repo\Locomotiv\Locomotiv\bin\MySql.Web.dll
+D:\repo\Locomotiv\Locomotiv\bin\EntityFramework.xml
+D:\repo\Locomotiv\Locomotiv\obj\Debug\ResolveAssemblyReference.cache
+D:\repo\Locomotiv\Locomotiv\obj\Debug\Locomotiv.dll
+D:\repo\Locomotiv\Locomotiv\obj\Debug\Locomotiv.pdb
